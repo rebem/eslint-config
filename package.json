@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-yummies",
+  "version": "0.0.1",
+  "description": "Yummies ESLint Config",
+  "keywords": [ "yummies", "eslint", "eslint-config" ],
+  "homepage": "https://github.com/yummies/eslint-config-yummies",
+  "repository": "yummies/eslint-config-yummies",
+  "contributors": [
+    "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
+    "Denis Koltsov <iam@mistadikay.com> (https://github.com/mistadikay)"
+  ],
+  "main": "configs/common.json",
+  "files": [ "configs/" ],
+  "license": "MIT"
+}
