@@ -1,10 +1,10 @@
 {
-  "name": "eslint-config-yummies",
-  "version": "0.0.1",
+  "name": "eslint-config-rebem",
+  "version": "0.1.0",
   "description": "Yummies ESLint Config",
-  "keywords": [ "yummies", "eslint", "eslint-config" ],
-  "homepage": "https://github.com/yummies/eslint-config-yummies",
-  "repository": "yummies/eslint-config-yummies",
+  "keywords": [ "rebem", "eslint", "eslint-config" ],
+  "homepage": "https://github.com/rebem/eslint-config-rebem",
+  "repository": "rebem/eslint-config-rebem",
   "contributors": [
     "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
     "Denis Koltsov <iam@mistadikay.com> (https://github.com/mistadikay)"
