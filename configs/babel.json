@@ -8,6 +8,7 @@
     "modules": true
   },
   "rules": {
+    "strict": [ 2, "never" ],
     "arrow-body-style": 0,
     "arrow-parens": 0,
     "arrow-spacing": 2,
