@@ -12,7 +12,8 @@ npm i -D eslint-config-rebem babel-eslint eslint-plugin-babel eslint-plugin-reac
   "extends": [
     "rebem/configs/common",
     "rebem/configs/babel",
-    "rebem/configs/react"
+    "rebem/configs/react",
+    "rebem/configs/test"
   ],
   "rules": {
     // custom tweaks
