@@ -6,6 +6,7 @@
     "max-len": 0,
     "max-nested-callbacks": 0,
     "no-magic-numbers": 0,
-    "no-console": 0
+    "no-console": 0,
+    "id-length": 0
   }
 }
