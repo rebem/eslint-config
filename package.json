@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rebem",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Yummies ESLint Config",
   "keywords": [ "rebem", "eslint", "eslint-config" ],
   "homepage": "https://github.com/rebem/eslint-config",
