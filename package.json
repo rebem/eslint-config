@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rebem",
-  "version": "0.3.0",
+  "version": "1.0.0-alpha.1",
   "description": "reBEM ESLint Config",
   "keywords": [ "rebem", "eslint", "eslint-config" ],
   "homepage": "https://github.com/rebem/eslint-config",
