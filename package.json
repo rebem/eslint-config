@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-rebem",
   "version": "0.3.0",
-  "description": "Yummies ESLint Config",
+  "description": "reBEM ESLint Config",
   "keywords": [ "rebem", "eslint", "eslint-config" ],
   "homepage": "https://github.com/rebem/eslint-config",
   "repository": "rebem/eslint-config",
