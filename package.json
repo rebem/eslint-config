@@ -9,6 +9,9 @@
     "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
     "Denis Koltsov <iam@mistadikay.com> (https://github.com/mistadikay)"
   ],
+  "peerDependencies": {
+    "eslint": "2.x.x"
+  },
   "main": "configs/common.json",
   "files": [ "configs/" ],
   "license": "MIT"
