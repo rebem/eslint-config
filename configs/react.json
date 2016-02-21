@@ -23,7 +23,6 @@
     "react/jsx-no-undef": 2,
     "react/jsx-pascal-case": 2,
     "react/jsx-quotes": 0,
-    "react/jsx-sort-prop-types": [ 2, { "callbacksLast": true, "ignoreCase": true } ],
     "react/jsx-sort-props": 0,
     "react/jsx-uses-react": 2,
     "react/jsx-uses-vars": 2,
@@ -65,6 +64,7 @@
         }
       }
     ],
+    "react/sort-prop-types": [ 2, { "callbacksLast": true, "ignoreCase": true } ],
     "react/wrap-multilines": 2
   }
 }
