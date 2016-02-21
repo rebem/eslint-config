@@ -20,3 +20,5 @@ npm i -D eslint-config-rebem babel-eslint eslint-plugin-babel eslint-plugin-reac
   }
 }
 ```
+
+If working with React config, install `eslint-plugin-react@4.0.0` or above.
