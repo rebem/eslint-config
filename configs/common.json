@@ -63,6 +63,7 @@
       "string": true
     } ],
     "no-implicit-globals": 2,
+    "no-restricted-globals": 0,
     "no-implied-eval": 2,
     "no-invalid-this": 0,
     "no-iterator": 2,
